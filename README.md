@@ -56,10 +56,5 @@ Before burning tokens, the function checks if the specified address has a suffic
 3. Use the `mint` function to create new tokens and assign them to addresses.
 4. Use the `burn` function to destroy tokens held by specific addresses.
 
-## Note
-
-This contract is provided as a simple example and might lack some security and optimization features required for production-level token contracts. It's important to thoroughly audit and test any smart contract deployed on a live blockchain network.
-
-For questions, concerns, or improvements, feel free to contact the contract author or contributors.
 
 ---
