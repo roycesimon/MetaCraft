@@ -1,4 +1,4 @@
-Certainly! Here's a README file for the provided Solidity smart contract code:
+
 
 # Pazhampori Token (PZOI) Smart Contract
 
