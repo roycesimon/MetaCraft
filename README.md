@@ -12,9 +12,6 @@ The **Pazhampori Token** (PZOI) is a simple Ethereum-based token implemented as 
 
 Solidity version: 0.8.18
 
-### License
-
-This smart contract is released under the MIT License. For more information, refer to the `SPDX-License-Identifier` comment in the contract code.
 
 ## Token Information
 
